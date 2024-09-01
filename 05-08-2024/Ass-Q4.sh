@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#Qusetion: Write a shell scipt to check if a given number is prime or not.
 
 function is_prime() {
     local number=$1

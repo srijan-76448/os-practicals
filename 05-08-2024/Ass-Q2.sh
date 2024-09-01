@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+#Qusetion: Write a shell scipt to check if a given year is leap year or not (take the current year if no year is passed).
+
 
 year=${1:-$(date +%Y)}
 

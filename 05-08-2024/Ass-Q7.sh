@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+#Qusetion: Write a shell scipt to generate all prime numbers in a given range.
 
 check_prime() {
     current_number=$1

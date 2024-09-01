@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#Qusetion: Write a shell scipt to find the factorial value of a given number.
 
 factorial() {
     local number=$1

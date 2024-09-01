@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+#Qusetion: Write a shell scipt to find the maximum and minimum of 3 numbers given as command line arguments.
 
 if [ $# -eq 3 ]
 then

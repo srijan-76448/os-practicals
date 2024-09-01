@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#Qusetion: Write a shell scipt to find the sum of all the digits of a given number.
 
 sum_of_digits() {
     local num=$1
