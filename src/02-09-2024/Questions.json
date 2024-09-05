@@ -1,0 +1,16 @@
+{
+    "Q1": "Write a shell script to print the reverse of a given number.",
+    "Q2": [
+        "Create a menu driven progra using shell script to run these followig commands:",
+        "1. ls",
+        "2. date",
+        "3. calender",
+        "4. user list",
+        "5. exit"
+    ],
+    "Q3": "Write a shell script to print all the numbers upto n.",
+    "Q4": "Write a shell script to print the muultiplication table of a given number.",
+    "Q5": "Write a shell script to break-down a given string into characters.",
+    "Q6": "Write a shell script to find the max and min of a given list.",
+    "Q7": "Write a shell script for file handling."
+}
